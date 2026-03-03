@@ -1,1 +1,1 @@
-Please check the Deployment by Streamlit file for the final output🙏
+Check the Deployment by Streamlit file for the final output
